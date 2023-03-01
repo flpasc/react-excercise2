@@ -27,13 +27,21 @@ body {
 }
 
 .card--info {
-	padding: 20px;
+	padding: 10px;
+}
+
+.card--title {
+	padding-bottom: 15px;
+	padding-left: 10px;
+	font-weight: 900;
+	font-size: 22px;
 }
 
 .card--location {
 	display: flex;
 	align-items: center;
 	padding: 10px;
+	padding-bottom: 2px;
 }
 
 .card--location-marker {
